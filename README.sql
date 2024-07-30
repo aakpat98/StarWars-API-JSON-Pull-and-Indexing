@@ -1,9 +1,3 @@
--- Pulls data from a JSON from the STAR WARS API 
-
--- Make sure hidden-dist.py is set up
-
--- Run only python3 swapi.py
-
 --- To restart the spider
 DROP TABLE IF EXISTS swapi CASCADE;
 
