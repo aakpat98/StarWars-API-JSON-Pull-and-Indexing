@@ -33,20 +33,10 @@ Each table is structured to store relevant attributes provided by SWAPI.
 
 After populating the database, you can create indexes to optimize query performance. The `SQL Queries.sql` file contains sample SQL queries for indexing and data retrieval.
 
-## Notes
-
-- Ensure that SWAPI is accessible from your environment.
-- Handle exceptions and errors gracefully to avoid interruptions during data fetching and insertion.
-- Regularly update the data to reflect any changes or additions to SWAPI.
-
 ## Resources
 
 - [Star Wars API Documentation](https://swapi.dev/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
